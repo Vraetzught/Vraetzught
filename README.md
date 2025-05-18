@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Vraetzught
-- 👀 My main hobbies are motorcycles and music, although I also have an interest in technology in general and I would love to pick up Muay Thai Boxing again, if I find the time.
-- 🌱 I’m currently on a graduate course to become a programmer. I have some basic understanding of Python, HTML, CSS and JS, but I'm looking to expand my knowledge, learn new skills and learn how to use all the tools available for web- and app-developement.
+* 👋 Hi, I’m @Vraetzught
+* 👀 Do I have hobbies? Ofcourse I do!
+  * I love listening to various different kinds of music, from the thumpîng bass in Hardcore, Psytrance or EDM, to the harsh vocals and screaming guitars in Heavy Metal, to mellow Country and folk music and everything in between.
+  * I also love rising my motorcycle, in fact it is my main way to get anywhere when I'm alone.
+  * This year I also started working out again, using Muay Thai to stay in shape. It's a wonderfull sport that challenges you both physically and mentaly, but don't worry, I have no ambition to actually fight competitively. 
+- 🌱 I’m currently finalizing my Associates degree in Programming and I'm looking foreward to my first real job as either a software developer or web developer. My favourite language at this time is C# and I would love to specialise in .NET, prefferably backend, but if I have to choose a frontend framework, I would choose Angular. I've also learned to work with React, but I find I like Angular a lot more.
 
-<!---
-Vraetzught/Vraetzught is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to take a look at my work. I still have a lot to learn, but I'm exited and found I really like doing this.
+
