@@ -1,9 +1,13 @@
-* 👋 Hi, I’m @Vraetzught
-* 👀 Do I have hobbies? Ofcourse I do!
-  * I love listening to various different kinds of music, from the thumpîng bass in Hardcore, Psytrance or EDM, to the harsh vocals and screaming guitars in Heavy Metal, to mellow Country and folk music and everything in between.
-  * I also love rising my motorcycle, in fact it is my main way to get anywhere when I'm alone.
-  * This year I also started working out again, using Muay Thai to stay in shape. It's a wonderfull sport that challenges you both physically and mentaly, but don't worry, I have no ambition to actually fight competitively. 
-- 🌱 I’m currently finalizing my Associates degree in Programming and I'm looking foreward to my first real job as either a software developer or web developer. My favourite language at this time is C# and I would love to specialise in .NET, prefferably backend, but if I have to choose a frontend framework, I would choose Angular. I've also learned to work with React, but I find I like Angular a lot more.
+#👋 Hi, I’m @Vraetzught
 
-Feel free to take a look at my work. I still have a lot to learn, but I'm exited and found I really like doing this.
+# 👀 Do I have hobbies? Ofcourse I do!
+* I love listening to all kinds of music—from the thumping bass of Hardcore, Psytrance, and EDM, to the harsh vocals and screaming guitars of Heavy Metal, and even mellow Country and Folk.
+* I also love riding my motorcycle; it's my main way to get around when I'm on my own.
+* This year, I started working out again, using Muay Thai to stay in shape. It's an amazing sport that challenges you both physically and mentally. But don't worry—I have no plans to compete!
+
+🌱 I’m currently finalizing my Associate's degree in Programming and I’m excited to begin my career as a Software Developer or Web Developer.<br>
+💻 My favorite language right now is C#, and I would love to specialize in .NET, preferably in Backend Development.<br>
+🌐 If I had to choose a frontend framework, Angular would be my pick, although I've also learned React—I just find Angular more enjoyable.
+
+Feel free to check out my work. I still have a lot to learn, but I’m excited and really love what I do!
 
