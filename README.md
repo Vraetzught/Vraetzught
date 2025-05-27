@@ -1,4 +1,4 @@
-#👋 Hi, I’m @Vraetzught
+# 👋 Hi, I’m @Vraetzught
 
 # 👀 Do I have hobbies? Ofcourse I do!
 * I love listening to all kinds of music—from the thumping bass of Hardcore, Psytrance, and EDM, to the harsh vocals and screaming guitars of Heavy Metal, and even mellow Country and Folk.
