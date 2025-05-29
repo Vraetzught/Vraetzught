@@ -8,7 +8,7 @@
 ## 🌱 My current role?
 I’m currently finalizing my Associate's degree in Programming and I’m excited to begin my career as a Software Developer and/or Web Developer, with a special fondness of backend. I love working with .NET, although I would like to dip my toes in Java if I get the chance. For frontend frameworks, my current most liked is Angular, although I have also worked with React at Thomas More Geel.
 
-## What I'm familiar with::
+## What I'm familiar with:
 
 | **Category**            | **Technologies / Frameworks** |
 |-------------------------|-----------------------------------|
